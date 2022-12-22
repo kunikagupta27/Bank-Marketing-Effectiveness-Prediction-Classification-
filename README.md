@@ -4,8 +4,6 @@ This project will be explored over the previous data in order to predict if the 
 
 **Tags: Classification, Python, Machine Learning, Data Science**
 
-**Team Members: Kunika Gupta, Rajesh kumar, Prayag Raj Dubey**
-
 **Links:**
 
 **Project Presentation** :- [Slideshow](https://docs.google.com/presentation/d/1rGTdPkCRbSpQVaEzcS4-4Qb7lEKr05FLd8bCoge5N18/edit?usp=sharing)
