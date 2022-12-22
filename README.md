@@ -4,9 +4,7 @@ This project will be explored over the previous data in order to predict if the 
 
 **Tags: Classification, Python, Machine Learning, Data Science**
 
-**Links:**
-
-**Project Presentation** :- [Slideshow](https://docs.google.com/presentation/d/1rGTdPkCRbSpQVaEzcS4-4Qb7lEKr05FLd8bCoge5N18/edit?usp=sharing)
+**Project Presentation** :- [Slideshow](https://docs.google.com/presentation/d/1rWVoCbuXKhK1U2skhDQCyZvvBmWIEbFEcRsI5yRk6Ck/edit?usp=sharing)
 
 ## Problem Statement:
 The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe to a term deposit (variable y).
